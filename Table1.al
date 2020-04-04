@@ -9,6 +9,10 @@ table 50101 MyTable
             DataClassification = ToBeClassified;
 
         }
+        field(2; No; Code[30])
+        {
+
+        }
     }
 
     keys
