@@ -13,6 +13,10 @@ table 50101 MyTable
         {
 
         }
+        field(3; Name; Text[30])
+        {
+
+        }
     }
 
     keys

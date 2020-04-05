@@ -16,6 +16,10 @@ page 50102 MyPage
                     ApplicationArea = All;
 
                 }
+                field(Name; Name)
+                {
+
+                }
             }
         }
     }
